@@ -418,6 +418,49 @@ img.img-center {
     display: block;
     max-width: 100%;
 }
+/* Custom CSS for ESG Certifications and Training Section */
+#esg-certifications .pricing-box-item {
+    background: #fcfcfc;
+    border: 1px solid #e6e6e6;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#esg-certifications .pricing-heading h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #004aad;
+    margin-bottom: 20px;
+}
+
+#esg-certifications .pricing-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+#esg-certifications .pricing-container ul li {
+    margin-bottom: 10px;
+    color: #656565;
+}
+
+#esg-certifications table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#esg-certifications table th,
+#esg-certifications table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+#esg-certifications table th {
+    background-color: #f8f8f8;
+    font-weight: 700;
+}
 /* Testimonial
 ----------------------------------*/
 
